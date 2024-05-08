@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AliHassan
 - 👀 I’m interested in web Technoology and wants to implement my skill and learn new technology in this field professionally.
 - 🌱 I’m currently learning Full stack Development.
-- 💞️ I’m looking to collaborate on Online platform
+- 💞️ I’m looking to collaborate at physically and  Online platform
 - 📫 How to reach me by github, my Portfolio ,twitter,instagram and facebook
 - 😄 Pronouns:Ali Baba
 - ⚡ Fun fact: Coding
